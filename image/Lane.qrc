@@ -1,0 +1,5 @@
+<RCC>
+  <qresource prefix="Lane">
+    <file>Lane.png</file>
+  </qresource>
+</RCC>
